@@ -1,0 +1,36 @@
+{
+  "name": "ref-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrell-greene/ref-app.git"
+  },
+  "keywords": [],
+  "author": "Jalen Greene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terrell-greene/ref-app/issues"
+  },
+  "homepage": "https://github.com/terrell-greene/ref-app#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "@types/react": "^16.9.13",
+    "ts-node": "^8.5.2",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.2"
+  }
+}
